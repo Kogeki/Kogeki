@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="cube" height="30" width="40" /></a>  You can add me on Discord at `Kogeki#1337`
+<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="30" width="40" /></a>  You can add me on Discord at `Kogeki#1337`
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kogeki&show_icons=true)
 </p>
