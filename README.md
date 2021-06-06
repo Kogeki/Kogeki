@@ -1,8 +1,13 @@
+<div align="center">
+
+
+
+
 ### Hi there 👋
 
 <a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="30" width="40" /></a>  You can add me on Discord at `Kogeki#1337`
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kogeki&show_icons=true)
+  ![Kogeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kogeki&show_icons=true&title_color=fff&text_color=fff&bg_color=20,7FD1CE,7D9AC9&hide_border=true)
 </p>
 <!--
 **Kogeki/Kogeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
